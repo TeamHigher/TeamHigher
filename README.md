@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
-
-I'm a Software Engineer with a strong focus on front end development. With a background in Civil engineering, I bring a unique perspective to my work, combining my technical expertise with a deep understanding of structural design and problem-solving. I'm passionate about learning new things and skills, sharing knowledge and collaboration. I build useful [open-source projects](https://github.com/TeamHigher). 
+# Uwabuofu Chukuka
+I'm Chukuka from London. I recently obtained a diploma in Frontend Engineering and I am currently looking for a Junior software developer and Graduate trainee opportunities. (https://github.com/TeamHigher). 
 
 **Here's a quick summary about me**:
 
@@ -11,6 +11,8 @@ I'm a Software Engineer with a strong focus on front end development. With a bac
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing Chuksdavis2020@gmail.com.
 
----
+## Skills and Experience
+* ⚛️ React Js
+* [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
