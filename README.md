@@ -13,6 +13,6 @@ I'm Chukuka from London. I recently obtained a diploma in Frontend Engineering a
 
 ## Skills and Experience
 * ⚛️ React Js
-* [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
