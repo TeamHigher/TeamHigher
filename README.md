@@ -1,6 +1,8 @@
 # Hello there; welcome 👋🏾
 # Uwabuofu Chukuka
-I'm Chukuka from London. I recently obtained a diploma in Frontend Engineering and I am currently looking for Junior software developer and Graduate trainee opportunities. (https://github.com/TeamHigher). 
+I'm Chukuka from London. I recently obtained a diploma in Frontend Engineering and I am currently looking for Junior software developer and Graduate trainee opportunities.
+ I need fair amount of projects during my time at school and since after graduation, I have designed two professional websites for clients so far. I enjoy coding and loves collaborating.
+(https://github.com/TeamHigher). 
 
 **Here's a quick summary about me**:
 
