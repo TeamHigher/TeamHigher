@@ -12,8 +12,8 @@ I'm Chukuka from London. I recently obtained a diploma in Frontend Engineering a
 - 📫 You can [view my resume](#) and contact me by emailing Chuksdavis2020@gmail.com.
 
 ## Skills and Experience
- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) # React Js
- [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) # vue Js
+ - [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) **React Js**
+ - [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) **vue Js**
  
 
 
