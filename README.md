@@ -15,6 +15,7 @@ I'm Chukuka from London. I recently obtained a diploma in Frontend Engineering a
  - [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) **React Js**
  - [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) **vue Js**
  - [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) **HTML CSS JS**
+ - [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) **GIT**
  
 
 
